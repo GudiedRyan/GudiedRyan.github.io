@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ryan Guide</title>
+    <link>https://gudiedryan.github.io/</link>
+    <description>Recent content on Ryan Guide</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 24 Sep 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://gudiedryan.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About Me</title>
+      <link>https://gudiedryan.github.io/about/</link>
+      <pubDate>Sat, 24 Sep 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://gudiedryan.github.io/about/</guid>
+      <description>My name is Ryan Guide. I lived in Pittsburgh until I turned 4, then I moved to State College where I currently live. In 2016 I attended Allegheny College, where I graduated with a bachelor&amp;rsquo;s degree in mathematics in 2020. As the pandemic shut down the world, I began looking into new paths to follow. In the summer of 2021, I met with Dr. Patrick McDaniel, and joined the SIIS Lab.</description>
+      <content>&lt;p&gt;My name is Ryan Guide. I lived in Pittsburgh until I turned 4, then I moved to State College where I currently live. In 2016 I attended Allegheny College, where I graduated with a bachelor&amp;rsquo;s degree in mathematics in 2020. As the pandemic shut down the world, I began looking into new paths to follow. In the summer of 2021, I met with &lt;a href=&#34;https://patrickmcdaniel.org/&#34;&gt;Dr. Patrick McDaniel&lt;/a&gt;, and joined the &lt;a href=&#34;https://cybersecurity.psu.edu/&#34;&gt;SIIS Lab&lt;/a&gt;. Ever since then I have been working on my Master&amp;rsquo;s degree at Penn State University. I am graduating December 2022.&lt;/p&gt;
+</content>
+    </item>
+    
+    <item>
+      <title>Research</title>
+      <link>https://gudiedryan.github.io/posts/publications/</link>
+      <pubDate>Sat, 24 Sep 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://gudiedryan.github.io/posts/publications/</guid>
+      <description>My research was on the characterization of SIDS rules through modifications. Once the paper is published, it will be posted on this website as well. Publication is currently pending.</description>
+      <content>&lt;p&gt;My research was on the characterization of SIDS rules through modifications. Once the paper is published, it will be posted on this website as well. Publication is currently pending.&lt;/p&gt;
+</content>
+    </item>
+    
+    <item>
+      <title>Socials</title>
+      <link>https://gudiedryan.github.io/posts/socials/</link>
+      <pubDate>Sat, 24 Sep 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://gudiedryan.github.io/posts/socials/</guid>
+      <description>You can find me on any of the socials below. For the fastest response, use the email listed on my resume.
+LinkedIn
+Twitter
+GitHub</description>
+      <content>&lt;p&gt;You can find me on any of the socials below. For the fastest response, use the email listed on my resume.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.linkedin.com/in/ryan-guide-9a60a217a/&#34;&gt;LinkedIn&lt;/a&gt;&lt;br&gt;
+&lt;a href=&#34;https://twitter.com/guide_ryan&#34;&gt;Twitter&lt;/a&gt;&lt;br&gt;
+&lt;a href=&#34;https://github.com/GudiedRyan&#34;&gt;GitHub&lt;/a&gt;&lt;/p&gt;
+</content>
+    </item>
+    
+    <item>
+      <title>Projects</title>
+      <link>https://gudiedryan.github.io/posts/projects/</link>
+      <pubDate>Thu, 22 Sep 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://gudiedryan.github.io/posts/projects/</guid>
+      <description>As I finish projects I will post links to them here. My first project (pending release) is a Python package.</description>
+      <content>&lt;p&gt;As I finish projects I will post links to them here. My first project (pending release) is a Python package.&lt;/p&gt;
+</content>
+    </item>
+    
+  </channel>
+</rss>
