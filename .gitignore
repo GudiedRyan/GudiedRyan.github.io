@@ -1,0 +1,6 @@
+CLAUDE.local.md
+
+# Hugo build output and cache
+public/
+resources/
+.hugo_build.lock
