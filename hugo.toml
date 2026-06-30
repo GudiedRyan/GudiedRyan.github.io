@@ -1,0 +1,28 @@
+baseURL = 'https://GudiedRyan.github.io/'
+locale = 'en-us'
+title = 'Ryan Guide'
+theme = 'hugo-theme-re-terminal'
+
+[params.logo]
+logoText="Ryan Guide"
+logoHomeLink="/"
+
+[[menu.main]]
+  name = "About"
+  url = "/posts/about-me"
+  weight = 10
+
+[[menu.main]]
+  name = "Research"
+  url = "/posts/research-paper"
+  weight = 20
+
+[[menu.main]]
+  name = "Projects"
+  url = "/projects"
+  weight = 30
+
+[[menu.main]]
+  name = "Resume"
+  url = "/RG_resume_6_29_26.pdf"
+  weight = 40
