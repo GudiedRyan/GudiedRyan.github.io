@@ -1,4 +1,4 @@
-baseURL = 'https://GudiedRyan.github.io/'
+baseURL = 'https://www.ryan-guide.com/'
 locale = 'en-us'
 title = 'Ryan Guide'
 theme = 'hugo-theme-re-terminal'
