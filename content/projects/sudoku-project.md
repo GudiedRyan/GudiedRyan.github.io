@@ -5,6 +5,7 @@ coverCaption = ""
 tags = []
 keywords = []
 description = "Play a Sudoku game or get a hint on one you're stuck on."
+weight = 1
 showFullContent = true
 readingTime = false
 hideComments = false
